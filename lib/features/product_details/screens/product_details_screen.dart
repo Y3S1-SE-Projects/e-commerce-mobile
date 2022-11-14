@@ -112,7 +112,7 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
                             width: 1,
                           ),
                         ),
-                        hintText: 'Search Amazon.in',
+                        hintText: 'Search GenderEqualizer Products',
                         hintStyle: const TextStyle(
                           fontWeight: FontWeight.w500,
                           fontSize: 17,
@@ -195,7 +195,7 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
                   ),
                   children: [
                     TextSpan(
-                      text: '\$${widget.product.price}',
+                      text: 'LKR${widget.product.price}',
                       style: const TextStyle(
                         fontSize: 22,
                         color: Colors.red,

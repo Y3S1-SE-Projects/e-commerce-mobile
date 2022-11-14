@@ -90,7 +90,7 @@ class _CartScreenState extends State<CartScreen> {
                             width: 1,
                           ),
                         ),
-                        hintText: 'Search Amazon.in',
+                        hintText: 'Search GenderEqualizer Products',
                         hintStyle: const TextStyle(
                           fontWeight: FontWeight.w500,
                           fontSize: 17,
@@ -120,7 +120,7 @@ class _CartScreenState extends State<CartScreen> {
               child: CustomButton(
                 text: 'Proceed to Buy (${user.cart.length} items)',
                 onTap: () => navigateToAddress(sum),
-                color: Colors.yellow[600],
+                color: Color.fromARGB(255, 207, 66, 46),
               ),
             ),
             const SizedBox(height: 15),

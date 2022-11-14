@@ -62,9 +62,9 @@ class _AuthScreenState extends State<AuthScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
-                'Welcome',
+                'Welcome to Gender Equalizer',
                 style: TextStyle(
-                  fontSize: 22,
+                  fontSize: 19,
                   fontWeight: FontWeight.w500,
                 ),
               ),

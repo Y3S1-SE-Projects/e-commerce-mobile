@@ -1,4 +1,4 @@
-# Amazon Clone
+# GenderEqualizer
 
 Full Stack Amazon Clone along with Admin Panel : https://www.youtube.com/watch?v=ylJz7N-dv1E
 
@@ -33,7 +33,7 @@ I have created a tutorial based on this, do check it out on my channel [Rivaan R
 
 
 ## Running Locally
-After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
+- Clone the Project to your local project
 - Create MongoDB Project & Cluster
 - Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in ```server/index.js```.
 - Head to ```lib/constants/global_variables.dart``` file, replace <yourip> with your IP Address. 
