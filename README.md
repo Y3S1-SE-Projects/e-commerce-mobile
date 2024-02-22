@@ -1,7 +1,5 @@
 # GenderEqualizer
 
-Full Stack Amazon Clone along with Admin Panel : https://www.youtube.com/watch?v=ylJz7N-dv1E
-
 ## Features
 - Email & Password Authentication
 - Persisting Auth State
@@ -54,7 +52,3 @@ Then run the following commands to run your app:
 **Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
 
 **Client**: Flutter, Provider
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
